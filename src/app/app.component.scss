@@ -69,5 +69,19 @@ h2{
     justify-content: space-around;
 }
 
+.submitFeedbackBtn{
+    background-color: blue;
+    color: white;
+    padding: 8px;
+    margin-left:  10px;
+    border-radius: 30px;
+}
+
+.submitFeedbackBtn:hover{
+    background-color: white;
+    color: blue;
+    transition: 0.2s;
+}
+
 
 
